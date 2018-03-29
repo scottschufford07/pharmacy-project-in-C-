@@ -1,0 +1,48 @@
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BuyItems.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CompanyInformation.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ExpenseForm.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InvoiceInfo.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InvoiceProduct.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OrderTakerDemand.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OrderTakerForm.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ProductForm.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PurchaseForm.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SalesForm.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SalesManInfo.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StockForm.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database.mdf
+C:\Users\Asad Mehmood\Desktop\finalpaper\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database.mdf
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BuyItems.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CompanyInformation.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ExpenseForm.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InvoiceInfo.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InvoiceProduct.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OrderTakerDemand.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OrderTakerForm.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ProductForm.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PurchaseForm.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SalesForm.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SalesManInfo.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StockForm.resources
+C:\Users\Asad Mehmood\Desktop\New folder (3)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

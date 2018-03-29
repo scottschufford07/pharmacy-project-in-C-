@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.DatabaseDataSet">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.InvoiceProductTableDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.InvoiceProductTableRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.OrderTakerDemandTableRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.OrderTakerInfoTableRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.InvoiceTableRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.OrderTakerInfoTableDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.OrderTakerInfoTableRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.InvoiceTableRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.CompanyInfoTableDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.ProductFormTableRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.SalesManTableRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.SalesManTableRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.ProductTableRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.ExpenseTableRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.InvoiceTableRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.ProductFormTableDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.ExpenseTableRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.ExpenseTableRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.CompanyInfoTableRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.LoginPanelRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.LoginPanelDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.OrderTakerInfoTableRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.SalesManTableDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.ProductFormTableRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.ProductTableDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.InvoiceTableDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.CompanyInfoTableRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.CompanyInfoTableRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.ProductTableRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.LoginPanelRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.SalesManTableRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.ProductTableRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.LoginPanelRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.InvoiceProductTableRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.InvoiceProductTableRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.OrderTakerDemandTableRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.OrderTakerDemandTableDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="WindowsFormsApplication1.DatabaseDataSet.ExpenseTableDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.ProductFormTableRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="WindowsFormsApplication1.DatabaseDataSet.OrderTakerDemandTableRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IEQEAAAAAxBAQBJCBIACSACDAAgiQR+ACABgAAMABjA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
